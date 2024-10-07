@@ -1,0 +1,659 @@
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Registration.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Properties.Resources.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Properties.Resources.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Registration.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Properties.Resources.resources
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Registration.resources
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Properties.Resources.resources
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Registration.resources
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CopyComplete
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.exe
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.deps.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.runtimeconfig.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Core.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\bin\Debug\net6.0-windows\Project_Trips_Data.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Login.resources
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Managment.resources
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Properties.Resources.resources
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.Registration.resources
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.UserScreen.resources
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.GenerateResource.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.AssemblyInfo.cs
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_.4D7622C5.Up2Date
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\refint\Project_Trips_Forms.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\Project_Trips_Forms.genruntimeconfig.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Forms\obj\Debug\net6.0-windows\ref\Project_Trips_Forms.dll

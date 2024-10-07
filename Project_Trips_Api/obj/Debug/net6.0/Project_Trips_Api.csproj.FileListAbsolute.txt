@@ -1,0 +1,800 @@
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.Project_Trips_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_Trips_Api.props
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_Trips_Api.props
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_Trips_Api.props
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.Project_Trips_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_Trips_Api.props
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_Trips_Api.props
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_Trips_Api.props
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.Project_Trips_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_Trips_Api.props
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_Trips_Api.props
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_Trips_Api.props
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.Project_Trips_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_Trips_Api.props
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_Trips_Api.props
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_Trips_Api.props
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.Project_Trips_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_Trips_Api.props
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_Trips_Api.props
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_Trips_Api.props
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CopyComplete
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.exe
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.deps.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.runtimeconfig.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Core.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.AssemblyInfo.cs
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.Project_Trips_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_Trips_Api.props
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_Trips_Api.props
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_Trips_Api.props
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\scopedcss\bundle\Project_Trips_Api.styles.css
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_.73279311.Up2Date
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\refint\Project_Trips_Api.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\Project_Trips_Api.genruntimeconfig.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Api\obj\Debug\net6.0\ref\Project_Trips_Api.dll

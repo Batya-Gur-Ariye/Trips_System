@@ -1,0 +1,154 @@
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+I:\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\בתיה גור אריה\Desktop\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+I:\תיכנות\Project_Trips_Batya\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\רבקי רייכמן\Desktop\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+D:\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\רבקי רייכמן\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips_Batya\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\user\Desktop\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\user\Desktop\final project C#\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\user\תמצתמת\Desktop\רבקי\C#\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.deps.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.runtimeconfig.json
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\bin\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.AssemblyReference.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfoInputs.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.AssemblyInfo.cs
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.csproj.CoreCompileInputs.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\refint\Project_Trips_Data.dll
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.pdb
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\Project_Trips_Data.genruntimeconfig.cache
+C:\Users\משתמש חדש\Downloads\Rivky Raichman & Batya Gur-Ariye\Rivky Raichman & Batya Gur-Ariye\project_B&R\Project_Trips\Project_Trips_Data\obj\Debug\net6.0\ref\Project_Trips_Data.dll
